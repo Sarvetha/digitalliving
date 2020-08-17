@@ -1,0 +1,22 @@
+/*--------------------------------------------------------------
+  # Footer
+  --------------------------------------------------------------*/
+  #footer {
+    color: #d0d0d0;
+    font-size: 14px;
+    background: #111111;
+  }
+
+  #footer .footer-bottom{
+    color: #fff;
+  }
+  
+  #footer .copyright {
+    text-align: center;
+  }
+  
+  #footer .credits {
+    float: right;
+    text-align: center;
+    font-size: 13px;
+  }
